@@ -1,16 +1,24 @@
-## Hi there 👋
+![alt text](https://github.com/evelyn-fyi/evelyn-fyi/blob/main/DSC01258.jpg)
 
-<!--
-**evelyn-fyi/evelyn-fyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi 👋, I'm Evelyn Maguire!</h1>
+<h3>A Senior Salesforce Developer based in Fort Collins, Colorado, USA.</h3>
 
-Here are some ideas to get you started:
+- 🧑🏻‍💻 I’m currently working on [writing a book for Packt Publishing!](https://github.com/PacktPublishing/Salesforce-Lightning-Web-Component-Cookbook)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **enterprise Kotlin development!**
+
+- 🤝 I’m looking to collaborate on **speaking events and open source Apex.**
+
+- 🍳 I’m looking for help with **finding the best eggs benedicts.**
+
+- 👨‍💻 Some of my projects are available on [GitHub.](www.github.com/evelyn-fyi)
+
+- 📝 I occasionally write articles at [www.evelyn.fyi](www.evelyn.fyi)!
+
+- 💬 Ask me about **Salesforce Service Cloud.**
+
+- 📄 My resume is available on [Linkedin.](www.linkedin.com/in/evelynmaguire/)
+
+- ⚡ Fun fact **I am an award winning lace knitter!**
+
+- 📫 How to reach me: **[me@evelyn.fyi](mailto:me@evelyn.fyi?subject=Github%20Contact)**
