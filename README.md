@@ -11,13 +11,13 @@
 
 - 🍳 I’m looking for help with **finding the best eggs benedicts.**
 
-- 👨‍💻 Some of my projects are available on [GitHub.](www.github.com/evelyn-fyi)
+- 👨‍💻 Some of my projects are available on [GitHub.](https://www.github.com/evelyn-fyi)
 
-- 📝 I occasionally write articles at [www.evelyn.fyi](www.evelyn.fyi)!
+- 📝 I occasionally write articles at [www.evelyn.fyi](https://www.evelyn.fyi)!
 
 - 💬 Ask me about **Salesforce Service Cloud.**
 
-- 📄 My resume is available on [Linkedin.](www.linkedin.com/in/evelynmaguire/)
+- 📄 My resume is available on [Linkedin.](https://www.linkedin.com/in/evelynmaguire/)
 
 - ⚡ Fun fact **I am an award winning lace knitter!**
 
